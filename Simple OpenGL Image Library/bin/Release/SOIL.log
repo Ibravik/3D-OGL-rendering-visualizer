@@ -1,0 +1,16 @@
+﻿  image_DXT.c
+  image_helper.c
+..\..\src\image_helper.c(325): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+..\..\src\image_helper.c(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\src\image_helper.c(373): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+..\..\src\image_helper.c(415): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\src\image_helper.c(422): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SOIL.c
+..\..\src\SOIL.c(1719): warning C4018: '<=': signed/unsigned mismatch
+..\..\src\SOIL.c(1729): warning C4018: '<': signed/unsigned mismatch
+  stb_image_aug.c
+c:\users\aldo_\desktop\simple opengl image library\src\stbi_DDS_aug_c.h(362): warning C4018: '>': signed/unsigned mismatch
+c:\users\aldo_\desktop\simple opengl image library\src\stbi_DDS_aug_c.h(366): warning C4018: '>': signed/unsigned mismatch
+c:\users\aldo_\desktop\simple opengl image library\src\stbi_DDS_aug_c.h(390): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo_\desktop\simple opengl image library\src\stbi_DDS_aug_c.h(427): warning C4018: '<': signed/unsigned mismatch
+  SOIL.vcxproj -> C:\Users\aldo_\Desktop\Simple OpenGL Image Library\projects\VC9\Release\SOIL.lib
